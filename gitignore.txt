@@ -1,0 +1,4 @@
+env/
+# Ignore credentials file
+credentials.py
+
